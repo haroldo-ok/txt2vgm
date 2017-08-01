@@ -1,0 +1,1026 @@
+VGM Header:
+VGM Signature:		"Vgm "
+File Version:		0x00000101 (1.01)
+EOF Offset:		0x00000818 (absolute)
+GD3 Tag Offset:		0x00000700 (absolute)
+Data Offset:		0x00000040 (absolute)
+Total Length:		177235 samples (00:04.01 s)
+Loop Point Offset:	0x00000000 (absolute)
+Loop Start:		0 samples (00:00.00 s)
+Loop Length:		0 samples (00:00.00 s)
+Recording Rate:		60 Hz
+SN76496 Clock:		3579540 Hz
+SN76496 Feedback:	0x00
+SN76496 ShiftRegWidth:	0 bits
+SN76496 Flags:		0x00
+YM2413 Clock:		0 Hz - unused
+YM2612 Clock:		0 Hz - unused
+YM2151 Clock:		0 Hz - unused
+SegaPCM Clock:		0 Hz - unused
+SegaPCM Interface:	0x00000000
+RF5C68 Clock:		0 Hz - unused
+YM2203 Clock:		0 Hz - unused
+YM2203 AY8910 Flags:	0x00
+YM2608 Clock:		0 Hz - unused
+YM2608 AY8910 Flags:	0x00
+YM2610 Clock:		0 Hz - unused
+YM3812 Clock:		0 Hz - unused
+YM3526 Clock:		0 Hz - unused
+Y8950 Clock:		0 Hz - unused
+YMF262 Clock:		0 Hz - unused
+YMF278B Clock:		0 Hz - unused
+YMF271 Clock:		0 Hz - unused
+YMZ280B Clock:		0 Hz - unused
+RF5C164 Clock:		0 Hz - unused
+PWM Clock:		0 Hz - unused
+AY8910 Clock:		0 Hz - unused
+AY8910 Type:		0x00 - AY-3-8910A
+AY8910 Flags:		0x00
+Volume Modifier:	0x00 (0) = 1.000
+Reserved (0x7D):	0x00
+Loop Base:		0x00 = ±0
+Loop Modifier:		0x00 (MaxLoops * 0.00)
+GB DMG Clock:		0 Hz - unused
+NES APU Clock:		0 Hz - unused
+MultiPCM Clock:		0 Hz - unused
+UPD7759 Clock:		0 Hz - unused
+OKIM6258 Clock:		0 Hz - unused
+OKIM6258 Flags:		0x00
+K054539 Flags:		0x00
+C140 Type:		0x00
+OKIM6295 Clock:		0 Hz - unused
+K051649 Clock:		0 Hz - unused
+K054539 Clock:		0 Hz - unused
+HuC6280 Clock:		0 Hz - unused
+C140 Clock:		0 Hz - unused
+K053260 Clock:		0 Hz - unused
+Pokey Clock:		0 Hz - unused
+QSound Clock:		0 Hz - unused
+
+VGMData:
+0x00000040: 4F FF       SN76496:	GG Stereo: 012N012N
+0x00000042: 50 80       SN76496:	Latch/Data: Tone Ch 0 -> 0x000
+0x00000044: 50 00       SN76496:	Data: 00
+0x00000046: 50 A0       SN76496:	Latch/Data: Tone Ch 1 -> 0x000
+0x00000048: 50 00       SN76496:	Data: 00
+0x0000004A: 50 C0       SN76496:	Latch/Data: Tone Ch 2 -> 0x000
+0x0000004C: 50 00       SN76496:	Data: 00
+0x0000004E: 50 E5       SN76496:	Noise Type: 5 - White, Med (3463Hz)
+0x00000050: 50 9F       SN76496:	Latch/Data: Volume Ch 0 -> 0xF = 0%
+0x00000052: 50 BF       SN76496:	Latch/Data: Volume Ch 1 -> 0xF = 0%
+0x00000054: 50 DF       SN76496:	Latch/Data: Volume Ch 2 -> 0xF = 0%
+0x00000056: 50 FF       SN76496:	Latch/Data: Volume Ch 3 -> 0xF = 0%
+0x00000058: 50 88       SN76496:	Latch/Data: Tone Ch 0 -> 0x008
+0x0000005A: 50 05       SN76496:	Data: 05
+0x0000005C: 50 AB       SN76496:	Latch/Data: Tone Ch 1 -> 0x00B
+0x0000005E: 50 0B       SN76496:	Data: 0B
+0x00000060: 50 CA       SN76496:	Latch/Data: Tone Ch 2 -> 0x00A
+0x00000062: 50 06       SN76496:	Data: 06
+0x00000064: 50 E4       SN76496:	Noise Type: 4 - White, High (6927Hz)
+0x00000066: 61 64 00    Wait:	100 samples (   2.27 ms)	(total	100 (00:00.00))
+0x00000069: 50 8B       SN76496:	Latch/Data: Tone Ch 0 -> 0x00B
+0x0000006B: 50 16       SN76496:	Data: 16
+0x0000006D: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x0000006F: 62          Wait:	735 samples (1/60 s)	(total	835 (00:00.01))
+0x00000070: 50 A5       SN76496:	Latch/Data: Tone Ch 1 -> 0x005
+0x00000072: 50 2D       SN76496:	Data: 2D
+0x00000074: 50 C4       SN76496:	Latch/Data: Tone Ch 2 -> 0x004
+0x00000076: 50 1E       SN76496:	Data: 1E
+0x00000078: 50 E4       SN76496:	Noise Type: 4 - White, High (6927Hz)
+0x0000007A: 50 94       SN76496:	Latch/Data: Volume Ch 0 -> 0x4 = 73%
+0x0000007C: 50 B5       SN76496:	Latch/Data: Volume Ch 1 -> 0x5 = 66%
+0x0000007E: 50 D4       SN76496:	Latch/Data: Volume Ch 2 -> 0x4 = 73%
+0x00000080: 50 F6       SN76496:	Latch/Data: Volume Ch 3 -> 0x6 = 60%
+0x00000082: 62          Wait:	735 samples (1/60 s)	(total	1570 (00:00.03))
+0x00000083: 50 FF       SN76496:	Latch/Data: Volume Ch 3 -> 0xF = 0%
+0x00000085: 61 9D 08    Wait:	2205 samples (   50.00 ms)	(total	3775 (00:00.08))
+0x00000088: 50 96       SN76496:	Latch/Data: Volume Ch 0 -> 0x6 = 60%
+0x0000008A: 50 D6       SN76496:	Latch/Data: Volume Ch 2 -> 0x6 = 60%
+0x0000008C: 62          Wait:	735 samples (1/60 s)	(total	4510 (00:00.10))
+0x0000008D: 50 97       SN76496:	Latch/Data: Volume Ch 0 -> 0x7 = 53%
+0x0000008F: 50 D7       SN76496:	Latch/Data: Volume Ch 2 -> 0x7 = 53%
+0x00000091: 62          Wait:	735 samples (1/60 s)	(total	5245 (00:00.11))
+0x00000092: 50 BD       SN76496:	Latch/Data: Volume Ch 1 -> 0xD = 13%
+0x00000094: 62          Wait:	735 samples (1/60 s)	(total	5980 (00:00.13))
+0x00000095: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x00000097: 50 BF       SN76496:	Latch/Data: Volume Ch 1 -> 0xF = 0%
+0x00000099: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x0000009B: 62          Wait:	735 samples (1/60 s)	(total	6715 (00:00.15))
+0x0000009C: 50 94       SN76496:	Latch/Data: Volume Ch 0 -> 0x4 = 73%
+0x0000009E: 50 D4       SN76496:	Latch/Data: Volume Ch 2 -> 0x4 = 73%
+0x000000A0: 62          Wait:	735 samples (1/60 s)	(total	7450 (00:00.16))
+0x000000A1: 50 A4       SN76496:	Latch/Data: Tone Ch 1 -> 0x004
+0x000000A3: 50 2D       SN76496:	Data: 2D
+0x000000A5: 62          Wait:	735 samples (1/60 s)	(total	8185 (00:00.18))
+0x000000A6: 62          Wait:	735 samples (1/60 s)	(total	8920 (00:00.20))
+0x000000A7: 50 A5       SN76496:	Latch/Data: Tone Ch 1 -> 0x005
+0x000000A9: 50 2D       SN76496:	Data: 2D
+0x000000AB: 62          Wait:	735 samples (1/60 s)	(total	9655 (00:00.21))
+0x000000AC: 50 96       SN76496:	Latch/Data: Volume Ch 0 -> 0x6 = 60%
+0x000000AE: 50 D6       SN76496:	Latch/Data: Volume Ch 2 -> 0x6 = 60%
+0x000000B0: 62          Wait:	735 samples (1/60 s)	(total	10390 (00:00.23))
+0x000000B1: 50 A6       SN76496:	Latch/Data: Tone Ch 1 -> 0x006
+0x000000B3: 50 2D       SN76496:	Data: 2D
+0x000000B5: 50 97       SN76496:	Latch/Data: Volume Ch 0 -> 0x7 = 53%
+0x000000B7: 50 D7       SN76496:	Latch/Data: Volume Ch 2 -> 0x7 = 53%
+0x000000B9: 62          Wait:	735 samples (1/60 s)	(total	11125 (00:00.25))
+0x000000BA: 62          Wait:	735 samples (1/60 s)	(total	11860 (00:00.26))
+0x000000BB: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x000000BD: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x000000BF: 50 F4       SN76496:	Latch/Data: Volume Ch 3 -> 0x4 = 73%
+0x000000C1: 62          Wait:	735 samples (1/60 s)	(total	12595 (00:00.28))
+0x000000C2: 62          Wait:	735 samples (1/60 s)	(total	13330 (00:00.30))
+0x000000C3: 50 8A       SN76496:	Latch/Data: Tone Ch 0 -> 0x00A
+0x000000C5: 50 16       SN76496:	Data: 16
+0x000000C7: 50 C3       SN76496:	Latch/Data: Tone Ch 2 -> 0x003
+0x000000C9: 50 1E       SN76496:	Data: 1E
+0x000000CB: 50 99       SN76496:	Latch/Data: Volume Ch 0 -> 0x9 = 40%
+0x000000CD: 50 D9       SN76496:	Latch/Data: Volume Ch 2 -> 0x9 = 40%
+0x000000CF: 50 F5       SN76496:	Latch/Data: Volume Ch 3 -> 0x5 = 66%
+0x000000D1: 62          Wait:	735 samples (1/60 s)	(total	14065 (00:00.31))
+0x000000D2: 50 F6       SN76496:	Latch/Data: Volume Ch 3 -> 0x6 = 60%
+0x000000D4: 62          Wait:	735 samples (1/60 s)	(total	14800 (00:00.33))
+0x000000D5: 50 8B       SN76496:	Latch/Data: Tone Ch 0 -> 0x00B
+0x000000D7: 50 16       SN76496:	Data: 16
+0x000000D9: 50 C4       SN76496:	Latch/Data: Tone Ch 2 -> 0x004
+0x000000DB: 50 1E       SN76496:	Data: 1E
+0x000000DD: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x000000DF: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x000000E1: 62          Wait:	735 samples (1/60 s)	(total	15535 (00:00.35))
+0x000000E2: 50 F7       SN76496:	Latch/Data: Volume Ch 3 -> 0x7 = 53%
+0x000000E4: 62          Wait:	735 samples (1/60 s)	(total	16270 (00:00.36))
+0x000000E5: 50 8C       SN76496:	Latch/Data: Tone Ch 0 -> 0x00C
+0x000000E7: 50 16       SN76496:	Data: 16
+0x000000E9: 50 C5       SN76496:	Latch/Data: Tone Ch 2 -> 0x005
+0x000000EB: 50 1E       SN76496:	Data: 1E
+0x000000ED: 50 9F       SN76496:	Latch/Data: Volume Ch 0 -> 0xF = 0%
+0x000000EF: 50 DF       SN76496:	Latch/Data: Volume Ch 2 -> 0xF = 0%
+0x000000F1: 62          Wait:	735 samples (1/60 s)	(total	17005 (00:00.38))
+0x000000F2: 50 F8       SN76496:	Latch/Data: Volume Ch 3 -> 0x8 = 46%
+0x000000F4: 62          Wait:	735 samples (1/60 s)	(total	17740 (00:00.40))
+0x000000F5: 50 80       SN76496:	Latch/Data: Tone Ch 0 -> 0x000
+0x000000F7: 50 12       SN76496:	Data: 12
+0x000000F9: 50 A5       SN76496:	Latch/Data: Tone Ch 1 -> 0x005
+0x000000FB: 50 2D       SN76496:	Data: 2D
+0x000000FD: 50 CB       SN76496:	Latch/Data: Tone Ch 2 -> 0x00B
+0x000000FF: 50 16       SN76496:	Data: 16
+0x00000101: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x00000103: 50 B7       SN76496:	Latch/Data: Volume Ch 1 -> 0x7 = 53%
+0x00000105: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x00000107: 62          Wait:	735 samples (1/60 s)	(total	18475 (00:00.41))
+0x00000108: 50 94       SN76496:	Latch/Data: Volume Ch 0 -> 0x4 = 73%
+0x0000010A: 50 B5       SN76496:	Latch/Data: Volume Ch 1 -> 0x5 = 66%
+0x0000010C: 50 D4       SN76496:	Latch/Data: Volume Ch 2 -> 0x4 = 73%
+0x0000010E: 50 F9       SN76496:	Latch/Data: Volume Ch 3 -> 0x9 = 40%
+0x00000110: 62          Wait:	735 samples (1/60 s)	(total	19210 (00:00.43))
+0x00000111: 62          Wait:	735 samples (1/60 s)	(total	19945 (00:00.45))
+0x00000112: 50 FA       SN76496:	Latch/Data: Volume Ch 3 -> 0xA = 33%
+0x00000114: 62          Wait:	735 samples (1/60 s)	(total	20680 (00:00.46))
+0x00000115: 50 FF       SN76496:	Latch/Data: Volume Ch 3 -> 0xF = 0%
+0x00000117: 62          Wait:	735 samples (1/60 s)	(total	21415 (00:00.48))
+0x00000118: 50 96       SN76496:	Latch/Data: Volume Ch 0 -> 0x6 = 60%
+0x0000011A: 50 D6       SN76496:	Latch/Data: Volume Ch 2 -> 0x6 = 60%
+0x0000011C: 62          Wait:	735 samples (1/60 s)	(total	22150 (00:00.50))
+0x0000011D: 50 97       SN76496:	Latch/Data: Volume Ch 0 -> 0x7 = 53%
+0x0000011F: 50 D7       SN76496:	Latch/Data: Volume Ch 2 -> 0x7 = 53%
+0x00000121: 62          Wait:	735 samples (1/60 s)	(total	22885 (00:00.51))
+0x00000122: 50 BD       SN76496:	Latch/Data: Volume Ch 1 -> 0xD = 13%
+0x00000124: 62          Wait:	735 samples (1/60 s)	(total	23620 (00:00.53))
+0x00000125: 50 83       SN76496:	Latch/Data: Tone Ch 0 -> 0x003
+0x00000127: 50 0F       SN76496:	Data: 0F
+0x00000129: 50 C0       SN76496:	Latch/Data: Tone Ch 2 -> 0x000
+0x0000012B: 50 12       SN76496:	Data: 12
+0x0000012D: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x0000012F: 50 BF       SN76496:	Latch/Data: Volume Ch 1 -> 0xF = 0%
+0x00000131: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x00000133: 50 F6       SN76496:	Latch/Data: Volume Ch 3 -> 0x6 = 60%
+0x00000135: 62          Wait:	735 samples (1/60 s)	(total	24355 (00:00.55))
+0x00000136: 50 94       SN76496:	Latch/Data: Volume Ch 0 -> 0x4 = 73%
+0x00000138: 50 D4       SN76496:	Latch/Data: Volume Ch 2 -> 0x4 = 73%
+0x0000013A: 62          Wait:	735 samples (1/60 s)	(total	25090 (00:00.56))
+0x0000013B: 50 A4       SN76496:	Latch/Data: Tone Ch 1 -> 0x004
+0x0000013D: 50 2D       SN76496:	Data: 2D
+0x0000013F: 50 FF       SN76496:	Latch/Data: Volume Ch 3 -> 0xF = 0%
+0x00000141: 62          Wait:	735 samples (1/60 s)	(total	25825 (00:00.58))
+0x00000142: 62          Wait:	735 samples (1/60 s)	(total	26560 (00:00.60))
+0x00000143: 50 A5       SN76496:	Latch/Data: Tone Ch 1 -> 0x005
+0x00000145: 50 2D       SN76496:	Data: 2D
+0x00000147: 62          Wait:	735 samples (1/60 s)	(total	27295 (00:00.61))
+0x00000148: 50 96       SN76496:	Latch/Data: Volume Ch 0 -> 0x6 = 60%
+0x0000014A: 50 D6       SN76496:	Latch/Data: Volume Ch 2 -> 0x6 = 60%
+0x0000014C: 62          Wait:	735 samples (1/60 s)	(total	28030 (00:00.63))
+0x0000014D: 50 A6       SN76496:	Latch/Data: Tone Ch 1 -> 0x006
+0x0000014F: 50 2D       SN76496:	Data: 2D
+0x00000151: 50 97       SN76496:	Latch/Data: Volume Ch 0 -> 0x7 = 53%
+0x00000153: 50 D7       SN76496:	Latch/Data: Volume Ch 2 -> 0x7 = 53%
+0x00000155: 62          Wait:	735 samples (1/60 s)	(total	28765 (00:00.65))
+0x00000156: 62          Wait:	735 samples (1/60 s)	(total	29500 (00:00.66))
+0x00000157: 50 A8       SN76496:	Latch/Data: Tone Ch 1 -> 0x008
+0x00000159: 50 3C       SN76496:	Data: 3C
+0x0000015B: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x0000015D: 50 B7       SN76496:	Latch/Data: Volume Ch 1 -> 0x7 = 53%
+0x0000015F: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x00000161: 50 F6       SN76496:	Latch/Data: Volume Ch 3 -> 0x6 = 60%
+0x00000163: 62          Wait:	735 samples (1/60 s)	(total	30235 (00:00.68))
+0x00000164: 50 B5       SN76496:	Latch/Data: Volume Ch 1 -> 0x5 = 66%
+0x00000166: 62          Wait:	735 samples (1/60 s)	(total	30970 (00:00.70))
+0x00000167: 50 82       SN76496:	Latch/Data: Tone Ch 0 -> 0x002
+0x00000169: 50 0F       SN76496:	Data: 0F
+0x0000016B: 50 CF       SN76496:	Latch/Data: Tone Ch 2 -> 0x00F
+0x0000016D: 50 11       SN76496:	Data: 11
+0x0000016F: 50 99       SN76496:	Latch/Data: Volume Ch 0 -> 0x9 = 40%
+0x00000171: 50 D9       SN76496:	Latch/Data: Volume Ch 2 -> 0x9 = 40%
+0x00000173: 50 FF       SN76496:	Latch/Data: Volume Ch 3 -> 0xF = 0%
+0x00000175: 62          Wait:	735 samples (1/60 s)	(total	31705 (00:00.71))
+0x00000176: 62          Wait:	735 samples (1/60 s)	(total	32440 (00:00.73))
+0x00000177: 50 83       SN76496:	Latch/Data: Tone Ch 0 -> 0x003
+0x00000179: 50 0F       SN76496:	Data: 0F
+0x0000017B: 50 C0       SN76496:	Latch/Data: Tone Ch 2 -> 0x000
+0x0000017D: 50 12       SN76496:	Data: 12
+0x0000017F: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x00000181: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x00000183: 62          Wait:	735 samples (1/60 s)	(total	33175 (00:00.75))
+0x00000184: 62          Wait:	735 samples (1/60 s)	(total	33910 (00:00.76))
+0x00000185: 50 84       SN76496:	Latch/Data: Tone Ch 0 -> 0x004
+0x00000187: 50 0F       SN76496:	Data: 0F
+0x00000189: 50 C1       SN76496:	Latch/Data: Tone Ch 2 -> 0x001
+0x0000018B: 50 12       SN76496:	Data: 12
+0x0000018D: 50 96       SN76496:	Latch/Data: Volume Ch 0 -> 0x6 = 60%
+0x0000018F: 50 D6       SN76496:	Latch/Data: Volume Ch 2 -> 0x6 = 60%
+0x00000191: 62          Wait:	735 samples (1/60 s)	(total	34645 (00:00.78))
+0x00000192: 50 97       SN76496:	Latch/Data: Volume Ch 0 -> 0x7 = 53%
+0x00000194: 50 BD       SN76496:	Latch/Data: Volume Ch 1 -> 0xD = 13%
+0x00000196: 50 D7       SN76496:	Latch/Data: Volume Ch 2 -> 0x7 = 53%
+0x00000198: 62          Wait:	735 samples (1/60 s)	(total	35380 (00:00.80))
+0x00000199: 50 83       SN76496:	Latch/Data: Tone Ch 0 -> 0x003
+0x0000019B: 50 0F       SN76496:	Data: 0F
+0x0000019D: 50 A5       SN76496:	Latch/Data: Tone Ch 1 -> 0x005
+0x0000019F: 50 2D       SN76496:	Data: 2D
+0x000001A1: 50 C0       SN76496:	Latch/Data: Tone Ch 2 -> 0x000
+0x000001A3: 50 12       SN76496:	Data: 12
+0x000001A5: 50 B7       SN76496:	Latch/Data: Volume Ch 1 -> 0x7 = 53%
+0x000001A7: 50 F4       SN76496:	Latch/Data: Volume Ch 3 -> 0x4 = 73%
+0x000001A9: 62          Wait:	735 samples (1/60 s)	(total	36115 (00:00.81))
+0x000001AA: 50 82       SN76496:	Latch/Data: Tone Ch 0 -> 0x002
+0x000001AC: 50 0F       SN76496:	Data: 0F
+0x000001AE: 50 CF       SN76496:	Latch/Data: Tone Ch 2 -> 0x00F
+0x000001B0: 50 11       SN76496:	Data: 11
+0x000001B2: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x000001B4: 50 B5       SN76496:	Latch/Data: Volume Ch 1 -> 0x5 = 66%
+0x000001B6: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x000001B8: 62          Wait:	735 samples (1/60 s)	(total	36850 (00:00.83))
+0x000001B9: 50 F5       SN76496:	Latch/Data: Volume Ch 3 -> 0x5 = 66%
+0x000001BB: 62          Wait:	735 samples (1/60 s)	(total	37585 (00:00.85))
+0x000001BC: 50 83       SN76496:	Latch/Data: Tone Ch 0 -> 0x003
+0x000001BE: 50 0F       SN76496:	Data: 0F
+0x000001C0: 50 C0       SN76496:	Latch/Data: Tone Ch 2 -> 0x000
+0x000001C2: 50 12       SN76496:	Data: 12
+0x000001C4: 50 99       SN76496:	Latch/Data: Volume Ch 0 -> 0x9 = 40%
+0x000001C6: 50 D9       SN76496:	Latch/Data: Volume Ch 2 -> 0x9 = 40%
+0x000001C8: 50 F6       SN76496:	Latch/Data: Volume Ch 3 -> 0x6 = 60%
+0x000001CA: 62          Wait:	735 samples (1/60 s)	(total	38320 (00:00.86))
+0x000001CB: 50 84       SN76496:	Latch/Data: Tone Ch 0 -> 0x004
+0x000001CD: 50 0F       SN76496:	Data: 0F
+0x000001CF: 50 C1       SN76496:	Latch/Data: Tone Ch 2 -> 0x001
+0x000001D1: 50 12       SN76496:	Data: 12
+0x000001D3: 62          Wait:	735 samples (1/60 s)	(total	39055 (00:00.88))
+0x000001D4: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x000001D6: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x000001D8: 50 F7       SN76496:	Latch/Data: Volume Ch 3 -> 0x7 = 53%
+0x000001DA: 62          Wait:	735 samples (1/60 s)	(total	39790 (00:00.90))
+0x000001DB: 50 83       SN76496:	Latch/Data: Tone Ch 0 -> 0x003
+0x000001DD: 50 0F       SN76496:	Data: 0F
+0x000001DF: 50 C0       SN76496:	Latch/Data: Tone Ch 2 -> 0x000
+0x000001E1: 50 12       SN76496:	Data: 12
+0x000001E3: 62          Wait:	735 samples (1/60 s)	(total	40525 (00:00.91))
+0x000001E4: 50 82       SN76496:	Latch/Data: Tone Ch 0 -> 0x002
+0x000001E6: 50 0F       SN76496:	Data: 0F
+0x000001E8: 50 CF       SN76496:	Latch/Data: Tone Ch 2 -> 0x00F
+0x000001EA: 50 11       SN76496:	Data: 11
+0x000001EC: 50 96       SN76496:	Latch/Data: Volume Ch 0 -> 0x6 = 60%
+0x000001EE: 50 BD       SN76496:	Latch/Data: Volume Ch 1 -> 0xD = 13%
+0x000001F0: 50 D6       SN76496:	Latch/Data: Volume Ch 2 -> 0x6 = 60%
+0x000001F2: 50 F8       SN76496:	Latch/Data: Volume Ch 3 -> 0x8 = 46%
+0x000001F4: 62          Wait:	735 samples (1/60 s)	(total	41260 (00:00.93))
+0x000001F5: 50 A8       SN76496:	Latch/Data: Tone Ch 1 -> 0x008
+0x000001F7: 50 3C       SN76496:	Data: 3C
+0x000001F9: 50 9F       SN76496:	Latch/Data: Volume Ch 0 -> 0xF = 0%
+0x000001FB: 50 B7       SN76496:	Latch/Data: Volume Ch 1 -> 0x7 = 53%
+0x000001FD: 50 DF       SN76496:	Latch/Data: Volume Ch 2 -> 0xF = 0%
+0x000001FF: 62          Wait:	735 samples (1/60 s)	(total	41995 (00:00.95))
+0x00000200: 50 B5       SN76496:	Latch/Data: Volume Ch 1 -> 0x5 = 66%
+0x00000202: 50 F9       SN76496:	Latch/Data: Volume Ch 3 -> 0x9 = 40%
+0x00000204: 61 9D 08    Wait:	2205 samples (   50.00 ms)	(total	44200 (00:01.00))
+0x00000207: 50 FF       SN76496:	Latch/Data: Volume Ch 3 -> 0xF = 0%
+0x00000209: 61 9D 08    Wait:	2205 samples (   50.00 ms)	(total	46405 (00:01.05))
+0x0000020C: 50 BD       SN76496:	Latch/Data: Volume Ch 1 -> 0xD = 13%
+0x0000020E: 62          Wait:	735 samples (1/60 s)	(total	47140 (00:01.06))
+0x0000020F: 50 84       SN76496:	Latch/Data: Tone Ch 0 -> 0x004
+0x00000211: 50 14       SN76496:	Data: 14
+0x00000213: 50 A6       SN76496:	Latch/Data: Tone Ch 1 -> 0x006
+0x00000215: 50 28       SN76496:	Data: 28
+0x00000217: 50 C0       SN76496:	Latch/Data: Tone Ch 2 -> 0x000
+0x00000219: 50 1B       SN76496:	Data: 1B
+0x0000021B: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x0000021D: 50 B7       SN76496:	Latch/Data: Volume Ch 1 -> 0x7 = 53%
+0x0000021F: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x00000221: 62          Wait:	735 samples (1/60 s)	(total	47875 (00:01.08))
+0x00000222: 50 94       SN76496:	Latch/Data: Volume Ch 0 -> 0x4 = 73%
+0x00000224: 50 B5       SN76496:	Latch/Data: Volume Ch 1 -> 0x5 = 66%
+0x00000226: 50 D4       SN76496:	Latch/Data: Volume Ch 2 -> 0x4 = 73%
+0x00000228: 50 F6       SN76496:	Latch/Data: Volume Ch 3 -> 0x6 = 60%
+0x0000022A: 62          Wait:	735 samples (1/60 s)	(total	48610 (00:01.10))
+0x0000022B: 50 FF       SN76496:	Latch/Data: Volume Ch 3 -> 0xF = 0%
+0x0000022D: 61 9D 08    Wait:	2205 samples (   50.00 ms)	(total	50815 (00:01.15))
+0x00000230: 50 96       SN76496:	Latch/Data: Volume Ch 0 -> 0x6 = 60%
+0x00000232: 50 D6       SN76496:	Latch/Data: Volume Ch 2 -> 0x6 = 60%
+0x00000234: 62          Wait:	735 samples (1/60 s)	(total	51550 (00:01.16))
+0x00000235: 50 97       SN76496:	Latch/Data: Volume Ch 0 -> 0x7 = 53%
+0x00000237: 50 D7       SN76496:	Latch/Data: Volume Ch 2 -> 0x7 = 53%
+0x00000239: 62          Wait:	735 samples (1/60 s)	(total	52285 (00:01.18))
+0x0000023A: 50 BD       SN76496:	Latch/Data: Volume Ch 1 -> 0xD = 13%
+0x0000023C: 62          Wait:	735 samples (1/60 s)	(total	53020 (00:01.20))
+0x0000023D: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x0000023F: 50 BF       SN76496:	Latch/Data: Volume Ch 1 -> 0xF = 0%
+0x00000241: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x00000243: 62          Wait:	735 samples (1/60 s)	(total	53755 (00:01.21))
+0x00000244: 50 94       SN76496:	Latch/Data: Volume Ch 0 -> 0x4 = 73%
+0x00000246: 50 D4       SN76496:	Latch/Data: Volume Ch 2 -> 0x4 = 73%
+0x00000248: 62          Wait:	735 samples (1/60 s)	(total	54490 (00:01.23))
+0x00000249: 50 A5       SN76496:	Latch/Data: Tone Ch 1 -> 0x005
+0x0000024B: 50 28       SN76496:	Data: 28
+0x0000024D: 62          Wait:	735 samples (1/60 s)	(total	55225 (00:01.25))
+0x0000024E: 62          Wait:	735 samples (1/60 s)	(total	55960 (00:01.26))
+0x0000024F: 50 A6       SN76496:	Latch/Data: Tone Ch 1 -> 0x006
+0x00000251: 50 28       SN76496:	Data: 28
+0x00000253: 62          Wait:	735 samples (1/60 s)	(total	56695 (00:01.28))
+0x00000254: 50 96       SN76496:	Latch/Data: Volume Ch 0 -> 0x6 = 60%
+0x00000256: 50 D6       SN76496:	Latch/Data: Volume Ch 2 -> 0x6 = 60%
+0x00000258: 62          Wait:	735 samples (1/60 s)	(total	57430 (00:01.30))
+0x00000259: 50 A7       SN76496:	Latch/Data: Tone Ch 1 -> 0x007
+0x0000025B: 50 28       SN76496:	Data: 28
+0x0000025D: 50 97       SN76496:	Latch/Data: Volume Ch 0 -> 0x7 = 53%
+0x0000025F: 50 D7       SN76496:	Latch/Data: Volume Ch 2 -> 0x7 = 53%
+0x00000261: 62          Wait:	735 samples (1/60 s)	(total	58165 (00:01.31))
+0x00000262: 62          Wait:	735 samples (1/60 s)	(total	58900 (00:01.33))
+0x00000263: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x00000265: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x00000267: 50 F4       SN76496:	Latch/Data: Volume Ch 3 -> 0x4 = 73%
+0x00000269: 62          Wait:	735 samples (1/60 s)	(total	59635 (00:01.35))
+0x0000026A: 62          Wait:	735 samples (1/60 s)	(total	60370 (00:01.36))
+0x0000026B: 50 83       SN76496:	Latch/Data: Tone Ch 0 -> 0x003
+0x0000026D: 50 14       SN76496:	Data: 14
+0x0000026F: 50 CF       SN76496:	Latch/Data: Tone Ch 2 -> 0x00F
+0x00000271: 50 1A       SN76496:	Data: 1A
+0x00000273: 50 99       SN76496:	Latch/Data: Volume Ch 0 -> 0x9 = 40%
+0x00000275: 50 D9       SN76496:	Latch/Data: Volume Ch 2 -> 0x9 = 40%
+0x00000277: 50 F5       SN76496:	Latch/Data: Volume Ch 3 -> 0x5 = 66%
+0x00000279: 62          Wait:	735 samples (1/60 s)	(total	61105 (00:01.38))
+0x0000027A: 50 F6       SN76496:	Latch/Data: Volume Ch 3 -> 0x6 = 60%
+0x0000027C: 62          Wait:	735 samples (1/60 s)	(total	61840 (00:01.40))
+0x0000027D: 50 84       SN76496:	Latch/Data: Tone Ch 0 -> 0x004
+0x0000027F: 50 14       SN76496:	Data: 14
+0x00000281: 50 C0       SN76496:	Latch/Data: Tone Ch 2 -> 0x000
+0x00000283: 50 1B       SN76496:	Data: 1B
+0x00000285: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x00000287: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x00000289: 62          Wait:	735 samples (1/60 s)	(total	62575 (00:01.41))
+0x0000028A: 50 F7       SN76496:	Latch/Data: Volume Ch 3 -> 0x7 = 53%
+0x0000028C: 62          Wait:	735 samples (1/60 s)	(total	63310 (00:01.43))
+0x0000028D: 50 85       SN76496:	Latch/Data: Tone Ch 0 -> 0x005
+0x0000028F: 50 14       SN76496:	Data: 14
+0x00000291: 50 C1       SN76496:	Latch/Data: Tone Ch 2 -> 0x001
+0x00000293: 50 1B       SN76496:	Data: 1B
+0x00000295: 50 9F       SN76496:	Latch/Data: Volume Ch 0 -> 0xF = 0%
+0x00000297: 50 DF       SN76496:	Latch/Data: Volume Ch 2 -> 0xF = 0%
+0x00000299: 62          Wait:	735 samples (1/60 s)	(total	64045 (00:01.45))
+0x0000029A: 50 F8       SN76496:	Latch/Data: Volume Ch 3 -> 0x8 = 46%
+0x0000029C: 62          Wait:	735 samples (1/60 s)	(total	64780 (00:01.46))
+0x0000029D: 50 80       SN76496:	Latch/Data: Tone Ch 0 -> 0x000
+0x0000029F: 50 11       SN76496:	Data: 11
+0x000002A1: 50 A6       SN76496:	Latch/Data: Tone Ch 1 -> 0x006
+0x000002A3: 50 28       SN76496:	Data: 28
+0x000002A5: 50 C4       SN76496:	Latch/Data: Tone Ch 2 -> 0x004
+0x000002A7: 50 14       SN76496:	Data: 14
+0x000002A9: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x000002AB: 50 B7       SN76496:	Latch/Data: Volume Ch 1 -> 0x7 = 53%
+0x000002AD: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x000002AF: 62          Wait:	735 samples (1/60 s)	(total	65515 (00:01.48))
+0x000002B0: 50 94       SN76496:	Latch/Data: Volume Ch 0 -> 0x4 = 73%
+0x000002B2: 50 B5       SN76496:	Latch/Data: Volume Ch 1 -> 0x5 = 66%
+0x000002B4: 50 D4       SN76496:	Latch/Data: Volume Ch 2 -> 0x4 = 73%
+0x000002B6: 50 F9       SN76496:	Latch/Data: Volume Ch 3 -> 0x9 = 40%
+0x000002B8: 61 9D 08    Wait:	2205 samples (   50.00 ms)	(total	67720 (00:01.53))
+0x000002BB: 50 FF       SN76496:	Latch/Data: Volume Ch 3 -> 0xF = 0%
+0x000002BD: 62          Wait:	735 samples (1/60 s)	(total	68455 (00:01.55))
+0x000002BE: 50 96       SN76496:	Latch/Data: Volume Ch 0 -> 0x6 = 60%
+0x000002C0: 50 D6       SN76496:	Latch/Data: Volume Ch 2 -> 0x6 = 60%
+0x000002C2: 62          Wait:	735 samples (1/60 s)	(total	69190 (00:01.56))
+0x000002C3: 50 97       SN76496:	Latch/Data: Volume Ch 0 -> 0x7 = 53%
+0x000002C5: 50 D7       SN76496:	Latch/Data: Volume Ch 2 -> 0x7 = 53%
+0x000002C7: 62          Wait:	735 samples (1/60 s)	(total	69925 (00:01.58))
+0x000002C8: 50 BD       SN76496:	Latch/Data: Volume Ch 1 -> 0xD = 13%
+0x000002CA: 62          Wait:	735 samples (1/60 s)	(total	70660 (00:01.60))
+0x000002CB: 50 88       SN76496:	Latch/Data: Tone Ch 0 -> 0x008
+0x000002CD: 50 0D       SN76496:	Data: 0D
+0x000002CF: 50 C0       SN76496:	Latch/Data: Tone Ch 2 -> 0x000
+0x000002D1: 50 11       SN76496:	Data: 11
+0x000002D3: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x000002D5: 50 BF       SN76496:	Latch/Data: Volume Ch 1 -> 0xF = 0%
+0x000002D7: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x000002D9: 50 F6       SN76496:	Latch/Data: Volume Ch 3 -> 0x6 = 60%
+0x000002DB: 62          Wait:	735 samples (1/60 s)	(total	71395 (00:01.61))
+0x000002DC: 50 94       SN76496:	Latch/Data: Volume Ch 0 -> 0x4 = 73%
+0x000002DE: 50 D4       SN76496:	Latch/Data: Volume Ch 2 -> 0x4 = 73%
+0x000002E0: 62          Wait:	735 samples (1/60 s)	(total	72130 (00:01.63))
+0x000002E1: 50 A5       SN76496:	Latch/Data: Tone Ch 1 -> 0x005
+0x000002E3: 50 28       SN76496:	Data: 28
+0x000002E5: 50 FF       SN76496:	Latch/Data: Volume Ch 3 -> 0xF = 0%
+0x000002E7: 62          Wait:	735 samples (1/60 s)	(total	72865 (00:01.65))
+0x000002E8: 62          Wait:	735 samples (1/60 s)	(total	73600 (00:01.66))
+0x000002E9: 50 A6       SN76496:	Latch/Data: Tone Ch 1 -> 0x006
+0x000002EB: 50 28       SN76496:	Data: 28
+0x000002ED: 62          Wait:	735 samples (1/60 s)	(total	74335 (00:01.68))
+0x000002EE: 50 96       SN76496:	Latch/Data: Volume Ch 0 -> 0x6 = 60%
+0x000002F0: 50 D6       SN76496:	Latch/Data: Volume Ch 2 -> 0x6 = 60%
+0x000002F2: 62          Wait:	735 samples (1/60 s)	(total	75070 (00:01.70))
+0x000002F3: 50 A7       SN76496:	Latch/Data: Tone Ch 1 -> 0x007
+0x000002F5: 50 28       SN76496:	Data: 28
+0x000002F7: 50 97       SN76496:	Latch/Data: Volume Ch 0 -> 0x7 = 53%
+0x000002F9: 50 D7       SN76496:	Latch/Data: Volume Ch 2 -> 0x7 = 53%
+0x000002FB: 62          Wait:	735 samples (1/60 s)	(total	75805 (00:01.71))
+0x000002FC: 62          Wait:	735 samples (1/60 s)	(total	76540 (00:01.73))
+0x000002FD: 50 AE       SN76496:	Latch/Data: Tone Ch 1 -> 0x00E
+0x000002FF: 50 35       SN76496:	Data: 35
+0x00000301: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x00000303: 50 B7       SN76496:	Latch/Data: Volume Ch 1 -> 0x7 = 53%
+0x00000305: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x00000307: 50 F6       SN76496:	Latch/Data: Volume Ch 3 -> 0x6 = 60%
+0x00000309: 62          Wait:	735 samples (1/60 s)	(total	77275 (00:01.75))
+0x0000030A: 50 B5       SN76496:	Latch/Data: Volume Ch 1 -> 0x5 = 66%
+0x0000030C: 62          Wait:	735 samples (1/60 s)	(total	78010 (00:01.76))
+0x0000030D: 50 87       SN76496:	Latch/Data: Tone Ch 0 -> 0x007
+0x0000030F: 50 0D       SN76496:	Data: 0D
+0x00000311: 50 CF       SN76496:	Latch/Data: Tone Ch 2 -> 0x00F
+0x00000313: 50 10       SN76496:	Data: 10
+0x00000315: 50 99       SN76496:	Latch/Data: Volume Ch 0 -> 0x9 = 40%
+0x00000317: 50 D9       SN76496:	Latch/Data: Volume Ch 2 -> 0x9 = 40%
+0x00000319: 50 FF       SN76496:	Latch/Data: Volume Ch 3 -> 0xF = 0%
+0x0000031B: 62          Wait:	735 samples (1/60 s)	(total	78745 (00:01.78))
+0x0000031C: 62          Wait:	735 samples (1/60 s)	(total	79480 (00:01.80))
+0x0000031D: 50 88       SN76496:	Latch/Data: Tone Ch 0 -> 0x008
+0x0000031F: 50 0D       SN76496:	Data: 0D
+0x00000321: 50 C0       SN76496:	Latch/Data: Tone Ch 2 -> 0x000
+0x00000323: 50 11       SN76496:	Data: 11
+0x00000325: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x00000327: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x00000329: 62          Wait:	735 samples (1/60 s)	(total	80215 (00:01.81))
+0x0000032A: 62          Wait:	735 samples (1/60 s)	(total	80950 (00:01.83))
+0x0000032B: 50 89       SN76496:	Latch/Data: Tone Ch 0 -> 0x009
+0x0000032D: 50 0D       SN76496:	Data: 0D
+0x0000032F: 50 C1       SN76496:	Latch/Data: Tone Ch 2 -> 0x001
+0x00000331: 50 11       SN76496:	Data: 11
+0x00000333: 50 96       SN76496:	Latch/Data: Volume Ch 0 -> 0x6 = 60%
+0x00000335: 50 D6       SN76496:	Latch/Data: Volume Ch 2 -> 0x6 = 60%
+0x00000337: 62          Wait:	735 samples (1/60 s)	(total	81685 (00:01.85))
+0x00000338: 50 97       SN76496:	Latch/Data: Volume Ch 0 -> 0x7 = 53%
+0x0000033A: 50 BD       SN76496:	Latch/Data: Volume Ch 1 -> 0xD = 13%
+0x0000033C: 50 D7       SN76496:	Latch/Data: Volume Ch 2 -> 0x7 = 53%
+0x0000033E: 62          Wait:	735 samples (1/60 s)	(total	82420 (00:01.86))
+0x0000033F: 50 88       SN76496:	Latch/Data: Tone Ch 0 -> 0x008
+0x00000341: 50 0D       SN76496:	Data: 0D
+0x00000343: 50 A6       SN76496:	Latch/Data: Tone Ch 1 -> 0x006
+0x00000345: 50 28       SN76496:	Data: 28
+0x00000347: 50 C0       SN76496:	Latch/Data: Tone Ch 2 -> 0x000
+0x00000349: 50 11       SN76496:	Data: 11
+0x0000034B: 50 B7       SN76496:	Latch/Data: Volume Ch 1 -> 0x7 = 53%
+0x0000034D: 50 F4       SN76496:	Latch/Data: Volume Ch 3 -> 0x4 = 73%
+0x0000034F: 62          Wait:	735 samples (1/60 s)	(total	83155 (00:01.88))
+0x00000350: 50 87       SN76496:	Latch/Data: Tone Ch 0 -> 0x007
+0x00000352: 50 0D       SN76496:	Data: 0D
+0x00000354: 50 CF       SN76496:	Latch/Data: Tone Ch 2 -> 0x00F
+0x00000356: 50 10       SN76496:	Data: 10
+0x00000358: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x0000035A: 50 B5       SN76496:	Latch/Data: Volume Ch 1 -> 0x5 = 66%
+0x0000035C: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x0000035E: 62          Wait:	735 samples (1/60 s)	(total	83890 (00:01.90))
+0x0000035F: 50 F5       SN76496:	Latch/Data: Volume Ch 3 -> 0x5 = 66%
+0x00000361: 62          Wait:	735 samples (1/60 s)	(total	84625 (00:01.91))
+0x00000362: 50 88       SN76496:	Latch/Data: Tone Ch 0 -> 0x008
+0x00000364: 50 0D       SN76496:	Data: 0D
+0x00000366: 50 C0       SN76496:	Latch/Data: Tone Ch 2 -> 0x000
+0x00000368: 50 11       SN76496:	Data: 11
+0x0000036A: 50 99       SN76496:	Latch/Data: Volume Ch 0 -> 0x9 = 40%
+0x0000036C: 50 D9       SN76496:	Latch/Data: Volume Ch 2 -> 0x9 = 40%
+0x0000036E: 50 F6       SN76496:	Latch/Data: Volume Ch 3 -> 0x6 = 60%
+0x00000370: 62          Wait:	735 samples (1/60 s)	(total	85360 (00:01.93))
+0x00000371: 50 89       SN76496:	Latch/Data: Tone Ch 0 -> 0x009
+0x00000373: 50 0D       SN76496:	Data: 0D
+0x00000375: 50 C1       SN76496:	Latch/Data: Tone Ch 2 -> 0x001
+0x00000377: 50 11       SN76496:	Data: 11
+0x00000379: 62          Wait:	735 samples (1/60 s)	(total	86095 (00:01.95))
+0x0000037A: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x0000037C: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x0000037E: 50 F7       SN76496:	Latch/Data: Volume Ch 3 -> 0x7 = 53%
+0x00000380: 62          Wait:	735 samples (1/60 s)	(total	86830 (00:01.96))
+0x00000381: 50 88       SN76496:	Latch/Data: Tone Ch 0 -> 0x008
+0x00000383: 50 0D       SN76496:	Data: 0D
+0x00000385: 50 C0       SN76496:	Latch/Data: Tone Ch 2 -> 0x000
+0x00000387: 50 11       SN76496:	Data: 11
+0x00000389: 62          Wait:	735 samples (1/60 s)	(total	87565 (00:01.98))
+0x0000038A: 50 87       SN76496:	Latch/Data: Tone Ch 0 -> 0x007
+0x0000038C: 50 0D       SN76496:	Data: 0D
+0x0000038E: 50 CF       SN76496:	Latch/Data: Tone Ch 2 -> 0x00F
+0x00000390: 50 10       SN76496:	Data: 10
+0x00000392: 50 96       SN76496:	Latch/Data: Volume Ch 0 -> 0x6 = 60%
+0x00000394: 50 BD       SN76496:	Latch/Data: Volume Ch 1 -> 0xD = 13%
+0x00000396: 50 D6       SN76496:	Latch/Data: Volume Ch 2 -> 0x6 = 60%
+0x00000398: 50 F8       SN76496:	Latch/Data: Volume Ch 3 -> 0x8 = 46%
+0x0000039A: 62          Wait:	735 samples (1/60 s)	(total	88300 (00:02.00))
+0x0000039B: 50 AE       SN76496:	Latch/Data: Tone Ch 1 -> 0x00E
+0x0000039D: 50 35       SN76496:	Data: 35
+0x0000039F: 50 9F       SN76496:	Latch/Data: Volume Ch 0 -> 0xF = 0%
+0x000003A1: 50 B7       SN76496:	Latch/Data: Volume Ch 1 -> 0x7 = 53%
+0x000003A3: 50 DF       SN76496:	Latch/Data: Volume Ch 2 -> 0xF = 0%
+0x000003A5: 62          Wait:	735 samples (1/60 s)	(total	89035 (00:02.01))
+0x000003A6: 50 B5       SN76496:	Latch/Data: Volume Ch 1 -> 0x5 = 66%
+0x000003A8: 50 F9       SN76496:	Latch/Data: Volume Ch 3 -> 0x9 = 40%
+0x000003AA: 62          Wait:	735 samples (1/60 s)	(total	89770 (00:02.03))
+0x000003AB: 62          Wait:	735 samples (1/60 s)	(total	90505 (00:02.05))
+0x000003AC: 50 FA       SN76496:	Latch/Data: Volume Ch 3 -> 0xA = 33%
+0x000003AE: 62          Wait:	735 samples (1/60 s)	(total	91240 (00:02.06))
+0x000003AF: 50 FF       SN76496:	Latch/Data: Volume Ch 3 -> 0xF = 0%
+0x000003B1: 61 9D 08    Wait:	2205 samples (   50.00 ms)	(total	93445 (00:02.11))
+0x000003B4: 50 BD       SN76496:	Latch/Data: Volume Ch 1 -> 0xD = 13%
+0x000003B6: 62          Wait:	735 samples (1/60 s)	(total	94180 (00:02.13))
+0x000003B7: 50 83       SN76496:	Latch/Data: Tone Ch 0 -> 0x003
+0x000003B9: 50 0F       SN76496:	Data: 0F
+0x000003BB: 50 C0       SN76496:	Latch/Data: Tone Ch 2 -> 0x000
+0x000003BD: 50 12       SN76496:	Data: 12
+0x000003BF: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x000003C1: 50 BF       SN76496:	Latch/Data: Volume Ch 1 -> 0xF = 0%
+0x000003C3: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x000003C5: 50 F6       SN76496:	Latch/Data: Volume Ch 3 -> 0x6 = 60%
+0x000003C7: 62          Wait:	735 samples (1/60 s)	(total	94915 (00:02.15))
+0x000003C8: 50 94       SN76496:	Latch/Data: Volume Ch 0 -> 0x4 = 73%
+0x000003CA: 50 D4       SN76496:	Latch/Data: Volume Ch 2 -> 0x4 = 73%
+0x000003CC: 62          Wait:	735 samples (1/60 s)	(total	95650 (00:02.16))
+0x000003CD: 50 FF       SN76496:	Latch/Data: Volume Ch 3 -> 0xF = 0%
+0x000003CF: 61 9D 08    Wait:	2205 samples (   50.00 ms)	(total	97855 (00:02.21))
+0x000003D2: 50 96       SN76496:	Latch/Data: Volume Ch 0 -> 0x6 = 60%
+0x000003D4: 50 D6       SN76496:	Latch/Data: Volume Ch 2 -> 0x6 = 60%
+0x000003D6: 62          Wait:	735 samples (1/60 s)	(total	98590 (00:02.23))
+0x000003D7: 50 97       SN76496:	Latch/Data: Volume Ch 0 -> 0x7 = 53%
+0x000003D9: 50 D7       SN76496:	Latch/Data: Volume Ch 2 -> 0x7 = 53%
+0x000003DB: 62          Wait:	735 samples (1/60 s)	(total	99325 (00:02.25))
+0x000003DC: 62          Wait:	735 samples (1/60 s)	(total	100060 (00:02.26))
+0x000003DD: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x000003DF: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x000003E1: 62          Wait:	735 samples (1/60 s)	(total	100795 (00:02.28))
+0x000003E2: 62          Wait:	735 samples (1/60 s)	(total	101530 (00:02.30))
+0x000003E3: 50 82       SN76496:	Latch/Data: Tone Ch 0 -> 0x002
+0x000003E5: 50 0F       SN76496:	Data: 0F
+0x000003E7: 50 CF       SN76496:	Latch/Data: Tone Ch 2 -> 0x00F
+0x000003E9: 50 11       SN76496:	Data: 11
+0x000003EB: 50 99       SN76496:	Latch/Data: Volume Ch 0 -> 0x9 = 40%
+0x000003ED: 50 D9       SN76496:	Latch/Data: Volume Ch 2 -> 0x9 = 40%
+0x000003EF: 62          Wait:	735 samples (1/60 s)	(total	102265 (00:02.31))
+0x000003F0: 62          Wait:	735 samples (1/60 s)	(total	103000 (00:02.33))
+0x000003F1: 50 83       SN76496:	Latch/Data: Tone Ch 0 -> 0x003
+0x000003F3: 50 0F       SN76496:	Data: 0F
+0x000003F5: 50 C0       SN76496:	Latch/Data: Tone Ch 2 -> 0x000
+0x000003F7: 50 12       SN76496:	Data: 12
+0x000003F9: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x000003FB: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x000003FD: 62          Wait:	735 samples (1/60 s)	(total	103735 (00:02.35))
+0x000003FE: 62          Wait:	735 samples (1/60 s)	(total	104470 (00:02.36))
+0x000003FF: 50 84       SN76496:	Latch/Data: Tone Ch 0 -> 0x004
+0x00000401: 50 0F       SN76496:	Data: 0F
+0x00000403: 50 C1       SN76496:	Latch/Data: Tone Ch 2 -> 0x001
+0x00000405: 50 12       SN76496:	Data: 12
+0x00000407: 50 96       SN76496:	Latch/Data: Volume Ch 0 -> 0x6 = 60%
+0x00000409: 50 DF       SN76496:	Latch/Data: Volume Ch 2 -> 0xF = 0%
+0x0000040B: 62          Wait:	735 samples (1/60 s)	(total	105205 (00:02.38))
+0x0000040C: 50 97       SN76496:	Latch/Data: Volume Ch 0 -> 0x7 = 53%
+0x0000040E: 62          Wait:	735 samples (1/60 s)	(total	105940 (00:02.40))
+0x0000040F: 50 83       SN76496:	Latch/Data: Tone Ch 0 -> 0x003
+0x00000411: 50 0F       SN76496:	Data: 0F
+0x00000413: 50 A4       SN76496:	Latch/Data: Tone Ch 1 -> 0x004
+0x00000415: 50 1E       SN76496:	Data: 1E
+0x00000417: 50 C0       SN76496:	Latch/Data: Tone Ch 2 -> 0x000
+0x00000419: 50 12       SN76496:	Data: 12
+0x0000041B: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x0000041D: 50 B7       SN76496:	Latch/Data: Volume Ch 1 -> 0x7 = 53%
+0x0000041F: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x00000421: 50 F4       SN76496:	Latch/Data: Volume Ch 3 -> 0x4 = 73%
+0x00000423: 62          Wait:	735 samples (1/60 s)	(total	106675 (00:02.41))
+0x00000424: 50 94       SN76496:	Latch/Data: Volume Ch 0 -> 0x4 = 73%
+0x00000426: 50 B5       SN76496:	Latch/Data: Volume Ch 1 -> 0x5 = 66%
+0x00000428: 50 D4       SN76496:	Latch/Data: Volume Ch 2 -> 0x4 = 73%
+0x0000042A: 62          Wait:	735 samples (1/60 s)	(total	107410 (00:02.43))
+0x0000042B: 50 F5       SN76496:	Latch/Data: Volume Ch 3 -> 0x5 = 66%
+0x0000042D: 62          Wait:	735 samples (1/60 s)	(total	108145 (00:02.45))
+0x0000042E: 50 F6       SN76496:	Latch/Data: Volume Ch 3 -> 0x6 = 60%
+0x00000430: 62          Wait:	735 samples (1/60 s)	(total	108880 (00:02.46))
+0x00000431: 62          Wait:	735 samples (1/60 s)	(total	109615 (00:02.48))
+0x00000432: 50 96       SN76496:	Latch/Data: Volume Ch 0 -> 0x6 = 60%
+0x00000434: 50 D6       SN76496:	Latch/Data: Volume Ch 2 -> 0x6 = 60%
+0x00000436: 50 F7       SN76496:	Latch/Data: Volume Ch 3 -> 0x7 = 53%
+0x00000438: 62          Wait:	735 samples (1/60 s)	(total	110350 (00:02.50))
+0x00000439: 50 97       SN76496:	Latch/Data: Volume Ch 0 -> 0x7 = 53%
+0x0000043B: 50 D7       SN76496:	Latch/Data: Volume Ch 2 -> 0x7 = 53%
+0x0000043D: 62          Wait:	735 samples (1/60 s)	(total	111085 (00:02.51))
+0x0000043E: 50 BD       SN76496:	Latch/Data: Volume Ch 1 -> 0xD = 13%
+0x00000440: 50 F8       SN76496:	Latch/Data: Volume Ch 3 -> 0x8 = 46%
+0x00000442: 62          Wait:	735 samples (1/60 s)	(total	111820 (00:02.53))
+0x00000443: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x00000445: 50 BF       SN76496:	Latch/Data: Volume Ch 1 -> 0xF = 0%
+0x00000447: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x00000449: 62          Wait:	735 samples (1/60 s)	(total	112555 (00:02.55))
+0x0000044A: 50 F9       SN76496:	Latch/Data: Volume Ch 3 -> 0x9 = 40%
+0x0000044C: 62          Wait:	735 samples (1/60 s)	(total	113290 (00:02.56))
+0x0000044D: 50 82       SN76496:	Latch/Data: Tone Ch 0 -> 0x002
+0x0000044F: 50 0F       SN76496:	Data: 0F
+0x00000451: 50 CF       SN76496:	Latch/Data: Tone Ch 2 -> 0x00F
+0x00000453: 50 11       SN76496:	Data: 11
+0x00000455: 50 99       SN76496:	Latch/Data: Volume Ch 0 -> 0x9 = 40%
+0x00000457: 50 D9       SN76496:	Latch/Data: Volume Ch 2 -> 0x9 = 40%
+0x00000459: 62          Wait:	735 samples (1/60 s)	(total	114025 (00:02.58))
+0x0000045A: 62          Wait:	735 samples (1/60 s)	(total	114760 (00:02.60))
+0x0000045B: 50 83       SN76496:	Latch/Data: Tone Ch 0 -> 0x003
+0x0000045D: 50 0F       SN76496:	Data: 0F
+0x0000045F: 50 C0       SN76496:	Latch/Data: Tone Ch 2 -> 0x000
+0x00000461: 50 12       SN76496:	Data: 12
+0x00000463: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x00000465: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x00000467: 50 FF       SN76496:	Latch/Data: Volume Ch 3 -> 0xF = 0%
+0x00000469: 62          Wait:	735 samples (1/60 s)	(total	115495 (00:02.61))
+0x0000046A: 62          Wait:	735 samples (1/60 s)	(total	116230 (00:02.63))
+0x0000046B: 50 84       SN76496:	Latch/Data: Tone Ch 0 -> 0x004
+0x0000046D: 50 0F       SN76496:	Data: 0F
+0x0000046F: 50 C1       SN76496:	Latch/Data: Tone Ch 2 -> 0x001
+0x00000471: 50 12       SN76496:	Data: 12
+0x00000473: 50 96       SN76496:	Latch/Data: Volume Ch 0 -> 0x6 = 60%
+0x00000475: 50 DF       SN76496:	Latch/Data: Volume Ch 2 -> 0xF = 0%
+0x00000477: 62          Wait:	735 samples (1/60 s)	(total	116965 (00:02.65))
+0x00000478: 50 97       SN76496:	Latch/Data: Volume Ch 0 -> 0x7 = 53%
+0x0000047A: 62          Wait:	735 samples (1/60 s)	(total	117700 (00:02.66))
+0x0000047B: 50 81       SN76496:	Latch/Data: Tone Ch 0 -> 0x001
+0x0000047D: 50 0C       SN76496:	Data: 0C
+0x0000047F: 50 A1       SN76496:	Latch/Data: Tone Ch 1 -> 0x001
+0x00000481: 50 18       SN76496:	Data: 18
+0x00000483: 50 C0       SN76496:	Latch/Data: Tone Ch 2 -> 0x000
+0x00000485: 50 11       SN76496:	Data: 11
+0x00000487: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x00000489: 50 B7       SN76496:	Latch/Data: Volume Ch 1 -> 0x7 = 53%
+0x0000048B: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x0000048D: 50 F6       SN76496:	Latch/Data: Volume Ch 3 -> 0x6 = 60%
+0x0000048F: 62          Wait:	735 samples (1/60 s)	(total	118435 (00:02.68))
+0x00000490: 50 94       SN76496:	Latch/Data: Volume Ch 0 -> 0x4 = 73%
+0x00000492: 50 B5       SN76496:	Latch/Data: Volume Ch 1 -> 0x5 = 66%
+0x00000494: 50 D4       SN76496:	Latch/Data: Volume Ch 2 -> 0x4 = 73%
+0x00000496: 62          Wait:	735 samples (1/60 s)	(total	119170 (00:02.70))
+0x00000497: 50 FF       SN76496:	Latch/Data: Volume Ch 3 -> 0xF = 0%
+0x00000499: 61 9D 08    Wait:	2205 samples (   50.00 ms)	(total	121375 (00:02.75))
+0x0000049C: 50 96       SN76496:	Latch/Data: Volume Ch 0 -> 0x6 = 60%
+0x0000049E: 50 D6       SN76496:	Latch/Data: Volume Ch 2 -> 0x6 = 60%
+0x000004A0: 62          Wait:	735 samples (1/60 s)	(total	122110 (00:02.76))
+0x000004A1: 50 97       SN76496:	Latch/Data: Volume Ch 0 -> 0x7 = 53%
+0x000004A3: 50 D7       SN76496:	Latch/Data: Volume Ch 2 -> 0x7 = 53%
+0x000004A5: 62          Wait:	735 samples (1/60 s)	(total	122845 (00:02.78))
+0x000004A6: 50 BD       SN76496:	Latch/Data: Volume Ch 1 -> 0xD = 13%
+0x000004A8: 62          Wait:	735 samples (1/60 s)	(total	123580 (00:02.80))
+0x000004A9: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x000004AB: 50 BF       SN76496:	Latch/Data: Volume Ch 1 -> 0xF = 0%
+0x000004AD: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x000004AF: 50 F6       SN76496:	Latch/Data: Volume Ch 3 -> 0x6 = 60%
+0x000004B1: 62          Wait:	735 samples (1/60 s)	(total	124315 (00:02.81))
+0x000004B2: 62          Wait:	735 samples (1/60 s)	(total	125050 (00:02.83))
+0x000004B3: 50 80       SN76496:	Latch/Data: Tone Ch 0 -> 0x000
+0x000004B5: 50 0C       SN76496:	Data: 0C
+0x000004B7: 50 CF       SN76496:	Latch/Data: Tone Ch 2 -> 0x00F
+0x000004B9: 50 10       SN76496:	Data: 10
+0x000004BB: 50 99       SN76496:	Latch/Data: Volume Ch 0 -> 0x9 = 40%
+0x000004BD: 50 D9       SN76496:	Latch/Data: Volume Ch 2 -> 0x9 = 40%
+0x000004BF: 50 FF       SN76496:	Latch/Data: Volume Ch 3 -> 0xF = 0%
+0x000004C1: 62          Wait:	735 samples (1/60 s)	(total	125785 (00:02.85))
+0x000004C2: 62          Wait:	735 samples (1/60 s)	(total	126520 (00:02.86))
+0x000004C3: 50 81       SN76496:	Latch/Data: Tone Ch 0 -> 0x001
+0x000004C5: 50 0C       SN76496:	Data: 0C
+0x000004C7: 50 C0       SN76496:	Latch/Data: Tone Ch 2 -> 0x000
+0x000004C9: 50 11       SN76496:	Data: 11
+0x000004CB: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x000004CD: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x000004CF: 62          Wait:	735 samples (1/60 s)	(total	127255 (00:02.88))
+0x000004D0: 62          Wait:	735 samples (1/60 s)	(total	127990 (00:02.90))
+0x000004D1: 50 82       SN76496:	Latch/Data: Tone Ch 0 -> 0x002
+0x000004D3: 50 0C       SN76496:	Data: 0C
+0x000004D5: 50 C1       SN76496:	Latch/Data: Tone Ch 2 -> 0x001
+0x000004D7: 50 11       SN76496:	Data: 11
+0x000004D9: 50 96       SN76496:	Latch/Data: Volume Ch 0 -> 0x6 = 60%
+0x000004DB: 50 DF       SN76496:	Latch/Data: Volume Ch 2 -> 0xF = 0%
+0x000004DD: 62          Wait:	735 samples (1/60 s)	(total	128725 (00:02.91))
+0x000004DE: 50 97       SN76496:	Latch/Data: Volume Ch 0 -> 0x7 = 53%
+0x000004E0: 62          Wait:	735 samples (1/60 s)	(total	129460 (00:02.93))
+0x000004E1: 50 83       SN76496:	Latch/Data: Tone Ch 0 -> 0x003
+0x000004E3: 50 0F       SN76496:	Data: 0F
+0x000004E5: 50 A4       SN76496:	Latch/Data: Tone Ch 1 -> 0x004
+0x000004E7: 50 1E       SN76496:	Data: 1E
+0x000004E9: 50 C0       SN76496:	Latch/Data: Tone Ch 2 -> 0x000
+0x000004EB: 50 12       SN76496:	Data: 12
+0x000004ED: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x000004EF: 50 B7       SN76496:	Latch/Data: Volume Ch 1 -> 0x7 = 53%
+0x000004F1: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x000004F3: 50 F4       SN76496:	Latch/Data: Volume Ch 3 -> 0x4 = 73%
+0x000004F5: 62          Wait:	735 samples (1/60 s)	(total	130195 (00:02.95))
+0x000004F6: 50 94       SN76496:	Latch/Data: Volume Ch 0 -> 0x4 = 73%
+0x000004F8: 50 B5       SN76496:	Latch/Data: Volume Ch 1 -> 0x5 = 66%
+0x000004FA: 50 D4       SN76496:	Latch/Data: Volume Ch 2 -> 0x4 = 73%
+0x000004FC: 62          Wait:	735 samples (1/60 s)	(total	130930 (00:02.96))
+0x000004FD: 50 F5       SN76496:	Latch/Data: Volume Ch 3 -> 0x5 = 66%
+0x000004FF: 62          Wait:	735 samples (1/60 s)	(total	131665 (00:02.98))
+0x00000500: 50 F6       SN76496:	Latch/Data: Volume Ch 3 -> 0x6 = 60%
+0x00000502: 62          Wait:	735 samples (1/60 s)	(total	132400 (00:03.00))
+0x00000503: 62          Wait:	735 samples (1/60 s)	(total	133135 (00:03.01))
+0x00000504: 50 96       SN76496:	Latch/Data: Volume Ch 0 -> 0x6 = 60%
+0x00000506: 50 D6       SN76496:	Latch/Data: Volume Ch 2 -> 0x6 = 60%
+0x00000508: 50 F7       SN76496:	Latch/Data: Volume Ch 3 -> 0x7 = 53%
+0x0000050A: 62          Wait:	735 samples (1/60 s)	(total	133870 (00:03.03))
+0x0000050B: 50 97       SN76496:	Latch/Data: Volume Ch 0 -> 0x7 = 53%
+0x0000050D: 50 D7       SN76496:	Latch/Data: Volume Ch 2 -> 0x7 = 53%
+0x0000050F: 62          Wait:	735 samples (1/60 s)	(total	134605 (00:03.05))
+0x00000510: 50 BD       SN76496:	Latch/Data: Volume Ch 1 -> 0xD = 13%
+0x00000512: 50 F8       SN76496:	Latch/Data: Volume Ch 3 -> 0x8 = 46%
+0x00000514: 62          Wait:	735 samples (1/60 s)	(total	135340 (00:03.06))
+0x00000515: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x00000517: 50 BF       SN76496:	Latch/Data: Volume Ch 1 -> 0xF = 0%
+0x00000519: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x0000051B: 62          Wait:	735 samples (1/60 s)	(total	136075 (00:03.08))
+0x0000051C: 50 F9       SN76496:	Latch/Data: Volume Ch 3 -> 0x9 = 40%
+0x0000051E: 62          Wait:	735 samples (1/60 s)	(total	136810 (00:03.10))
+0x0000051F: 50 82       SN76496:	Latch/Data: Tone Ch 0 -> 0x002
+0x00000521: 50 0F       SN76496:	Data: 0F
+0x00000523: 50 CF       SN76496:	Latch/Data: Tone Ch 2 -> 0x00F
+0x00000525: 50 11       SN76496:	Data: 11
+0x00000527: 50 99       SN76496:	Latch/Data: Volume Ch 0 -> 0x9 = 40%
+0x00000529: 50 D9       SN76496:	Latch/Data: Volume Ch 2 -> 0x9 = 40%
+0x0000052B: 62          Wait:	735 samples (1/60 s)	(total	137545 (00:03.11))
+0x0000052C: 62          Wait:	735 samples (1/60 s)	(total	138280 (00:03.13))
+0x0000052D: 50 83       SN76496:	Latch/Data: Tone Ch 0 -> 0x003
+0x0000052F: 50 0F       SN76496:	Data: 0F
+0x00000531: 50 C0       SN76496:	Latch/Data: Tone Ch 2 -> 0x000
+0x00000533: 50 12       SN76496:	Data: 12
+0x00000535: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x00000537: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x00000539: 50 FF       SN76496:	Latch/Data: Volume Ch 3 -> 0xF = 0%
+0x0000053B: 62          Wait:	735 samples (1/60 s)	(total	139015 (00:03.15))
+0x0000053C: 62          Wait:	735 samples (1/60 s)	(total	139750 (00:03.16))
+0x0000053D: 50 84       SN76496:	Latch/Data: Tone Ch 0 -> 0x004
+0x0000053F: 50 0F       SN76496:	Data: 0F
+0x00000541: 50 C1       SN76496:	Latch/Data: Tone Ch 2 -> 0x001
+0x00000543: 50 12       SN76496:	Data: 12
+0x00000545: 50 96       SN76496:	Latch/Data: Volume Ch 0 -> 0x6 = 60%
+0x00000547: 50 DF       SN76496:	Latch/Data: Volume Ch 2 -> 0xF = 0%
+0x00000549: 62          Wait:	735 samples (1/60 s)	(total	140485 (00:03.18))
+0x0000054A: 50 97       SN76496:	Latch/Data: Volume Ch 0 -> 0x7 = 53%
+0x0000054C: 62          Wait:	735 samples (1/60 s)	(total	141220 (00:03.20))
+0x0000054D: 50 86       SN76496:	Latch/Data: Tone Ch 0 -> 0x006
+0x0000054F: 50 0B       SN76496:	Data: 0B
+0x00000551: 50 C8       SN76496:	Latch/Data: Tone Ch 2 -> 0x008
+0x00000553: 50 0D       SN76496:	Data: 0D
+0x00000555: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x00000557: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x00000559: 62          Wait:	735 samples (1/60 s)	(total	141955 (00:03.21))
+0x0000055A: 50 94       SN76496:	Latch/Data: Volume Ch 0 -> 0x4 = 73%
+0x0000055C: 50 D4       SN76496:	Latch/Data: Volume Ch 2 -> 0x4 = 73%
+0x0000055E: 61 7C 0B    Wait:	2940 samples (   66.67 ms)	(total	144895 (00:03.28))
+0x00000561: 50 96       SN76496:	Latch/Data: Volume Ch 0 -> 0x6 = 60%
+0x00000563: 50 D6       SN76496:	Latch/Data: Volume Ch 2 -> 0x6 = 60%
+0x00000565: 62          Wait:	735 samples (1/60 s)	(total	145630 (00:03.30))
+0x00000566: 50 97       SN76496:	Latch/Data: Volume Ch 0 -> 0x7 = 53%
+0x00000568: 50 D7       SN76496:	Latch/Data: Volume Ch 2 -> 0x7 = 53%
+0x0000056A: 62          Wait:	735 samples (1/60 s)	(total	146365 (00:03.31))
+0x0000056B: 62          Wait:	735 samples (1/60 s)	(total	147100 (00:03.33))
+0x0000056C: 50 AB       SN76496:	Latch/Data: Tone Ch 1 -> 0x00B
+0x0000056E: 50 16       SN76496:	Data: 16
+0x00000570: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x00000572: 50 B7       SN76496:	Latch/Data: Volume Ch 1 -> 0x7 = 53%
+0x00000574: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x00000576: 62          Wait:	735 samples (1/60 s)	(total	147835 (00:03.35))
+0x00000577: 50 B5       SN76496:	Latch/Data: Volume Ch 1 -> 0x5 = 66%
+0x00000579: 62          Wait:	735 samples (1/60 s)	(total	148570 (00:03.36))
+0x0000057A: 50 85       SN76496:	Latch/Data: Tone Ch 0 -> 0x005
+0x0000057C: 50 0B       SN76496:	Data: 0B
+0x0000057E: 50 C7       SN76496:	Latch/Data: Tone Ch 2 -> 0x007
+0x00000580: 50 0D       SN76496:	Data: 0D
+0x00000582: 50 99       SN76496:	Latch/Data: Volume Ch 0 -> 0x9 = 40%
+0x00000584: 50 D9       SN76496:	Latch/Data: Volume Ch 2 -> 0x9 = 40%
+0x00000586: 62          Wait:	735 samples (1/60 s)	(total	149305 (00:03.38))
+0x00000587: 62          Wait:	735 samples (1/60 s)	(total	150040 (00:03.40))
+0x00000588: 50 86       SN76496:	Latch/Data: Tone Ch 0 -> 0x006
+0x0000058A: 50 0B       SN76496:	Data: 0B
+0x0000058C: 50 C8       SN76496:	Latch/Data: Tone Ch 2 -> 0x008
+0x0000058E: 50 0D       SN76496:	Data: 0D
+0x00000590: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x00000592: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x00000594: 62          Wait:	735 samples (1/60 s)	(total	150775 (00:03.41))
+0x00000595: 62          Wait:	735 samples (1/60 s)	(total	151510 (00:03.43))
+0x00000596: 50 87       SN76496:	Latch/Data: Tone Ch 0 -> 0x007
+0x00000598: 50 0B       SN76496:	Data: 0B
+0x0000059A: 50 C9       SN76496:	Latch/Data: Tone Ch 2 -> 0x009
+0x0000059C: 50 0D       SN76496:	Data: 0D
+0x0000059E: 50 96       SN76496:	Latch/Data: Volume Ch 0 -> 0x6 = 60%
+0x000005A0: 50 D6       SN76496:	Latch/Data: Volume Ch 2 -> 0x6 = 60%
+0x000005A2: 62          Wait:	735 samples (1/60 s)	(total	152245 (00:03.45))
+0x000005A3: 50 97       SN76496:	Latch/Data: Volume Ch 0 -> 0x7 = 53%
+0x000005A5: 50 BD       SN76496:	Latch/Data: Volume Ch 1 -> 0xD = 13%
+0x000005A7: 50 D7       SN76496:	Latch/Data: Volume Ch 2 -> 0x7 = 53%
+0x000005A9: 62          Wait:	735 samples (1/60 s)	(total	152980 (00:03.46))
+0x000005AA: 50 86       SN76496:	Latch/Data: Tone Ch 0 -> 0x006
+0x000005AC: 50 0B       SN76496:	Data: 0B
+0x000005AE: 50 C8       SN76496:	Latch/Data: Tone Ch 2 -> 0x008
+0x000005B0: 50 0D       SN76496:	Data: 0D
+0x000005B2: 50 B7       SN76496:	Latch/Data: Volume Ch 1 -> 0x7 = 53%
+0x000005B4: 50 F4       SN76496:	Latch/Data: Volume Ch 3 -> 0x4 = 73%
+0x000005B6: 62          Wait:	735 samples (1/60 s)	(total	153715 (00:03.48))
+0x000005B7: 50 85       SN76496:	Latch/Data: Tone Ch 0 -> 0x005
+0x000005B9: 50 0B       SN76496:	Data: 0B
+0x000005BB: 50 C7       SN76496:	Latch/Data: Tone Ch 2 -> 0x007
+0x000005BD: 50 0D       SN76496:	Data: 0D
+0x000005BF: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x000005C1: 50 B5       SN76496:	Latch/Data: Volume Ch 1 -> 0x5 = 66%
+0x000005C3: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x000005C5: 62          Wait:	735 samples (1/60 s)	(total	154450 (00:03.50))
+0x000005C6: 50 F5       SN76496:	Latch/Data: Volume Ch 3 -> 0x5 = 66%
+0x000005C8: 62          Wait:	735 samples (1/60 s)	(total	155185 (00:03.51))
+0x000005C9: 50 86       SN76496:	Latch/Data: Tone Ch 0 -> 0x006
+0x000005CB: 50 0B       SN76496:	Data: 0B
+0x000005CD: 50 C8       SN76496:	Latch/Data: Tone Ch 2 -> 0x008
+0x000005CF: 50 0D       SN76496:	Data: 0D
+0x000005D1: 50 99       SN76496:	Latch/Data: Volume Ch 0 -> 0x9 = 40%
+0x000005D3: 50 D9       SN76496:	Latch/Data: Volume Ch 2 -> 0x9 = 40%
+0x000005D5: 50 F6       SN76496:	Latch/Data: Volume Ch 3 -> 0x6 = 60%
+0x000005D7: 62          Wait:	735 samples (1/60 s)	(total	155920 (00:03.53))
+0x000005D8: 50 87       SN76496:	Latch/Data: Tone Ch 0 -> 0x007
+0x000005DA: 50 0B       SN76496:	Data: 0B
+0x000005DC: 50 C9       SN76496:	Latch/Data: Tone Ch 2 -> 0x009
+0x000005DE: 50 0D       SN76496:	Data: 0D
+0x000005E0: 50 FF       SN76496:	Latch/Data: Volume Ch 3 -> 0xF = 0%
+0x000005E2: 62          Wait:	735 samples (1/60 s)	(total	156655 (00:03.55))
+0x000005E3: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x000005E5: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x000005E7: 62          Wait:	735 samples (1/60 s)	(total	157390 (00:03.56))
+0x000005E8: 50 86       SN76496:	Latch/Data: Tone Ch 0 -> 0x006
+0x000005EA: 50 0B       SN76496:	Data: 0B
+0x000005EC: 50 C8       SN76496:	Latch/Data: Tone Ch 2 -> 0x008
+0x000005EE: 50 0D       SN76496:	Data: 0D
+0x000005F0: 62          Wait:	735 samples (1/60 s)	(total	158125 (00:03.58))
+0x000005F1: 50 85       SN76496:	Latch/Data: Tone Ch 0 -> 0x005
+0x000005F3: 50 0B       SN76496:	Data: 0B
+0x000005F5: 50 C7       SN76496:	Latch/Data: Tone Ch 2 -> 0x007
+0x000005F7: 50 0D       SN76496:	Data: 0D
+0x000005F9: 50 96       SN76496:	Latch/Data: Volume Ch 0 -> 0x6 = 60%
+0x000005FB: 50 BD       SN76496:	Latch/Data: Volume Ch 1 -> 0xD = 13%
+0x000005FD: 50 D6       SN76496:	Latch/Data: Volume Ch 2 -> 0x6 = 60%
+0x000005FF: 62          Wait:	735 samples (1/60 s)	(total	158860 (00:03.60))
+0x00000600: 50 97       SN76496:	Latch/Data: Volume Ch 0 -> 0x7 = 53%
+0x00000602: 50 B7       SN76496:	Latch/Data: Volume Ch 1 -> 0x7 = 53%
+0x00000604: 50 D7       SN76496:	Latch/Data: Volume Ch 2 -> 0x7 = 53%
+0x00000606: 50 F4       SN76496:	Latch/Data: Volume Ch 3 -> 0x4 = 73%
+0x00000608: 62          Wait:	735 samples (1/60 s)	(total	159595 (00:03.61))
+0x00000609: 50 86       SN76496:	Latch/Data: Tone Ch 0 -> 0x006
+0x0000060B: 50 0B       SN76496:	Data: 0B
+0x0000060D: 50 C8       SN76496:	Latch/Data: Tone Ch 2 -> 0x008
+0x0000060F: 50 0D       SN76496:	Data: 0D
+0x00000611: 50 B5       SN76496:	Latch/Data: Volume Ch 1 -> 0x5 = 66%
+0x00000613: 62          Wait:	735 samples (1/60 s)	(total	160330 (00:03.63))
+0x00000614: 50 87       SN76496:	Latch/Data: Tone Ch 0 -> 0x007
+0x00000616: 50 0B       SN76496:	Data: 0B
+0x00000618: 50 C9       SN76496:	Latch/Data: Tone Ch 2 -> 0x009
+0x0000061A: 50 0D       SN76496:	Data: 0D
+0x0000061C: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x0000061E: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x00000620: 50 F5       SN76496:	Latch/Data: Volume Ch 3 -> 0x5 = 66%
+0x00000622: 62          Wait:	735 samples (1/60 s)	(total	161065 (00:03.65))
+0x00000623: 50 88       SN76496:	Latch/Data: Tone Ch 0 -> 0x008
+0x00000625: 50 0B       SN76496:	Data: 0B
+0x00000627: 50 CA       SN76496:	Latch/Data: Tone Ch 2 -> 0x00A
+0x00000629: 50 0D       SN76496:	Data: 0D
+0x0000062B: 50 F6       SN76496:	Latch/Data: Volume Ch 3 -> 0x6 = 60%
+0x0000062D: 62          Wait:	735 samples (1/60 s)	(total	161800 (00:03.66))
+0x0000062E: 50 99       SN76496:	Latch/Data: Volume Ch 0 -> 0x9 = 40%
+0x00000630: 50 D9       SN76496:	Latch/Data: Volume Ch 2 -> 0x9 = 40%
+0x00000632: 50 FF       SN76496:	Latch/Data: Volume Ch 3 -> 0xF = 0%
+0x00000634: 62          Wait:	735 samples (1/60 s)	(total	162535 (00:03.68))
+0x00000635: 50 87       SN76496:	Latch/Data: Tone Ch 0 -> 0x007
+0x00000637: 50 0B       SN76496:	Data: 0B
+0x00000639: 50 C9       SN76496:	Latch/Data: Tone Ch 2 -> 0x009
+0x0000063B: 50 0D       SN76496:	Data: 0D
+0x0000063D: 62          Wait:	735 samples (1/60 s)	(total	163270 (00:03.70))
+0x0000063E: 50 86       SN76496:	Latch/Data: Tone Ch 0 -> 0x006
+0x00000640: 50 0B       SN76496:	Data: 0B
+0x00000642: 50 C8       SN76496:	Latch/Data: Tone Ch 2 -> 0x008
+0x00000644: 50 0D       SN76496:	Data: 0D
+0x00000646: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x00000648: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x0000064A: 62          Wait:	735 samples (1/60 s)	(total	164005 (00:03.71))
+0x0000064B: 50 85       SN76496:	Latch/Data: Tone Ch 0 -> 0x005
+0x0000064D: 50 0B       SN76496:	Data: 0B
+0x0000064F: 50 C7       SN76496:	Latch/Data: Tone Ch 2 -> 0x007
+0x00000651: 50 0D       SN76496:	Data: 0D
+0x00000653: 50 BD       SN76496:	Latch/Data: Volume Ch 1 -> 0xD = 13%
+0x00000655: 62          Wait:	735 samples (1/60 s)	(total	164740 (00:03.73))
+0x00000656: 50 96       SN76496:	Latch/Data: Volume Ch 0 -> 0x6 = 60%
+0x00000658: 50 B7       SN76496:	Latch/Data: Volume Ch 1 -> 0x7 = 53%
+0x0000065A: 50 D6       SN76496:	Latch/Data: Volume Ch 2 -> 0x6 = 60%
+0x0000065C: 50 F4       SN76496:	Latch/Data: Volume Ch 3 -> 0x4 = 73%
+0x0000065E: 62          Wait:	735 samples (1/60 s)	(total	165475 (00:03.75))
+0x0000065F: 50 86       SN76496:	Latch/Data: Tone Ch 0 -> 0x006
+0x00000661: 50 0B       SN76496:	Data: 0B
+0x00000663: 50 C8       SN76496:	Latch/Data: Tone Ch 2 -> 0x008
+0x00000665: 50 0D       SN76496:	Data: 0D
+0x00000667: 50 97       SN76496:	Latch/Data: Volume Ch 0 -> 0x7 = 53%
+0x00000669: 50 B5       SN76496:	Latch/Data: Volume Ch 1 -> 0x5 = 66%
+0x0000066B: 50 D7       SN76496:	Latch/Data: Volume Ch 2 -> 0x7 = 53%
+0x0000066D: 62          Wait:	735 samples (1/60 s)	(total	166210 (00:03.76))
+0x0000066E: 50 87       SN76496:	Latch/Data: Tone Ch 0 -> 0x007
+0x00000670: 50 0B       SN76496:	Data: 0B
+0x00000672: 50 C9       SN76496:	Latch/Data: Tone Ch 2 -> 0x009
+0x00000674: 50 0D       SN76496:	Data: 0D
+0x00000676: 50 F5       SN76496:	Latch/Data: Volume Ch 3 -> 0x5 = 66%
+0x00000678: 62          Wait:	735 samples (1/60 s)	(total	166945 (00:03.78))
+0x00000679: 50 88       SN76496:	Latch/Data: Tone Ch 0 -> 0x008
+0x0000067B: 50 0B       SN76496:	Data: 0B
+0x0000067D: 50 CA       SN76496:	Latch/Data: Tone Ch 2 -> 0x00A
+0x0000067F: 50 0D       SN76496:	Data: 0D
+0x00000681: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x00000683: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x00000685: 50 F6       SN76496:	Latch/Data: Volume Ch 3 -> 0x6 = 60%
+0x00000687: 62          Wait:	735 samples (1/60 s)	(total	167680 (00:03.80))
+0x00000688: 62          Wait:	735 samples (1/60 s)	(total	168415 (00:03.81))
+0x00000689: 50 87       SN76496:	Latch/Data: Tone Ch 0 -> 0x007
+0x0000068B: 50 0B       SN76496:	Data: 0B
+0x0000068D: 50 C9       SN76496:	Latch/Data: Tone Ch 2 -> 0x009
+0x0000068F: 50 0D       SN76496:	Data: 0D
+0x00000691: 50 99       SN76496:	Latch/Data: Volume Ch 0 -> 0x9 = 40%
+0x00000693: 50 D9       SN76496:	Latch/Data: Volume Ch 2 -> 0x9 = 40%
+0x00000695: 50 F7       SN76496:	Latch/Data: Volume Ch 3 -> 0x7 = 53%
+0x00000697: 62          Wait:	735 samples (1/60 s)	(total	169150 (00:03.83))
+0x00000698: 62          Wait:	735 samples (1/60 s)	(total	169885 (00:03.85))
+0x00000699: 50 86       SN76496:	Latch/Data: Tone Ch 0 -> 0x006
+0x0000069B: 50 0B       SN76496:	Data: 0B
+0x0000069D: 50 C8       SN76496:	Latch/Data: Tone Ch 2 -> 0x008
+0x0000069F: 50 0D       SN76496:	Data: 0D
+0x000006A1: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x000006A3: 50 BD       SN76496:	Latch/Data: Volume Ch 1 -> 0xD = 13%
+0x000006A5: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x000006A7: 50 F8       SN76496:	Latch/Data: Volume Ch 3 -> 0x8 = 46%
+0x000006A9: 62          Wait:	735 samples (1/60 s)	(total	170620 (00:03.86))
+0x000006AA: 50 85       SN76496:	Latch/Data: Tone Ch 0 -> 0x005
+0x000006AC: 50 0B       SN76496:	Data: 0B
+0x000006AE: 50 C7       SN76496:	Latch/Data: Tone Ch 2 -> 0x007
+0x000006B0: 50 0D       SN76496:	Data: 0D
+0x000006B2: 50 BF       SN76496:	Latch/Data: Volume Ch 1 -> 0xF = 0%
+0x000006B4: 62          Wait:	735 samples (1/60 s)	(total	171355 (00:03.88))
+0x000006B5: 50 96       SN76496:	Latch/Data: Volume Ch 0 -> 0x6 = 60%
+0x000006B7: 50 D6       SN76496:	Latch/Data: Volume Ch 2 -> 0x6 = 60%
+0x000006B9: 50 F9       SN76496:	Latch/Data: Volume Ch 3 -> 0x9 = 40%
+0x000006BB: 62          Wait:	735 samples (1/60 s)	(total	172090 (00:03.90))
+0x000006BC: 50 97       SN76496:	Latch/Data: Volume Ch 0 -> 0x7 = 53%
+0x000006BE: 50 D7       SN76496:	Latch/Data: Volume Ch 2 -> 0x7 = 53%
+0x000006C0: 62          Wait:	735 samples (1/60 s)	(total	172825 (00:03.91))
+0x000006C1: 50 86       SN76496:	Latch/Data: Tone Ch 0 -> 0x006
+0x000006C3: 50 0B       SN76496:	Data: 0B
+0x000006C5: 50 C8       SN76496:	Latch/Data: Tone Ch 2 -> 0x008
+0x000006C7: 50 0D       SN76496:	Data: 0D
+0x000006C9: 50 FA       SN76496:	Latch/Data: Volume Ch 3 -> 0xA = 33%
+0x000006CB: 62          Wait:	735 samples (1/60 s)	(total	173560 (00:03.93))
+0x000006CC: 50 87       SN76496:	Latch/Data: Tone Ch 0 -> 0x007
+0x000006CE: 50 0B       SN76496:	Data: 0B
+0x000006D0: 50 C9       SN76496:	Latch/Data: Tone Ch 2 -> 0x009
+0x000006D2: 50 0D       SN76496:	Data: 0D
+0x000006D4: 50 98       SN76496:	Latch/Data: Volume Ch 0 -> 0x8 = 46%
+0x000006D6: 50 D8       SN76496:	Latch/Data: Volume Ch 2 -> 0x8 = 46%
+0x000006D8: 50 FF       SN76496:	Latch/Data: Volume Ch 3 -> 0xF = 0%
+0x000006DA: 62          Wait:	735 samples (1/60 s)	(total	174295 (00:03.95))
+0x000006DB: 50 88       SN76496:	Latch/Data: Tone Ch 0 -> 0x008
+0x000006DD: 50 0B       SN76496:	Data: 0B
+0x000006DF: 50 CA       SN76496:	Latch/Data: Tone Ch 2 -> 0x00A
+0x000006E1: 50 0D       SN76496:	Data: 0D
+0x000006E3: 62          Wait:	735 samples (1/60 s)	(total	175030 (00:03.96))
+0x000006E4: 50 89       SN76496:	Latch/Data: Tone Ch 0 -> 0x009
+0x000006E6: 50 0B       SN76496:	Data: 0B
+0x000006E8: 50 CB       SN76496:	Latch/Data: Tone Ch 2 -> 0x00B
+0x000006EA: 50 0D       SN76496:	Data: 0D
+0x000006EC: 50 99       SN76496:	Latch/Data: Volume Ch 0 -> 0x9 = 40%
+0x000006EE: 50 D9       SN76496:	Latch/Data: Volume Ch 2 -> 0x9 = 40%
+0x000006F0: 62          Wait:	735 samples (1/60 s)	(total	175765 (00:03.98))
+0x000006F1: 50 88       SN76496:	Latch/Data: Tone Ch 0 -> 0x008
+0x000006F3: 50 0B       SN76496:	Data: 0B
+0x000006F5: 50 CA       SN76496:	Latch/Data: Tone Ch 2 -> 0x00A
+0x000006F7: 50 0D       SN76496:	Data: 0D
+0x000006F9: 62          Wait:	735 samples (1/60 s)	(total	176500 (00:04.00))
+0x000006FA: 50 9F       SN76496:	Latch/Data: Volume Ch 0 -> 0xF = 0%
+0x000006FC: 50 DF       SN76496:	Latch/Data: Volume Ch 2 -> 0xF = 0%
+0x000006FE: 62          Wait:	735 samples (1/60 s)	(total	177235 (00:04.01))
+0x000006FF: 66          End of Data
